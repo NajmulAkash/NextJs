@@ -5,6 +5,7 @@ import Navbar from "./NPA/Navbar";
 export default function Homes(){
   return(
   <div>
+ 
   <Navbar/>
   </div>
   );
