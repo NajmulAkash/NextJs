@@ -26,12 +26,11 @@ export default function MetricCard() {
           </h2>
 
           <p className="text-sm font-semibold text-gray-600 mt-1">
-            Technical Foundation Program
+          jhkjhkjh
           </p>
 
           <p className="text-sm text-gray-500 mt-3 leading-relaxed">
-            Metric Tech provides students with essential technical knowledge
-            and a strong academic base for future learning and growth.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores esse, earum, officiis unde temporibus, placeat facere recusandae ipsa quod voluptatibus dolorem officia? Repellendus corrupti reprehenderit labore eaque minima beatae excepturi.
           </p>
 
           <button className="mt-5 px-6 py-2 bg-blue-900 text-white rounded-lg hover:bg-blue-700 transition duration-300">
