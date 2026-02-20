@@ -1,11 +1,8 @@
 import Image from "next/image";
-import Navbar from "./NPA/Navbar";
-
-
+import Card from './NPA/Card'
 export default function Homes(){
   return(
-  <div>
     
-  </div>
+    <Card/>
   );
 } 
