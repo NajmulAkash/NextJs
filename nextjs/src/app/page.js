@@ -4,8 +4,7 @@ import Navbar from "./NPA/Navbar";
 export default function Homes(){
   return(
     <>
-    {/* <Card/> */}
-     <Navbar/>
+    <Card/>
     </>
   );
 } 
