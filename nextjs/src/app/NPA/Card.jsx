@@ -13,8 +13,8 @@ export default function MetricCard() {
           <Image
             src={najml}
             alt="Metric Tech"
-            width={350}
-            height={180}
+            width={200}
+            height={300}
             className="w-full h-44 object-contain rounded-lg"
           />
         </div>

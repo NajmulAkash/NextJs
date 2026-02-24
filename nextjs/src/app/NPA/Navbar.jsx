@@ -18,12 +18,12 @@ function Navbar() {
 </div>
         <button onClick={()=>setisOpen(!isopen)} className='px-4 text-4xl text-white'><FiMenu /></button>
     </div>
-       <div className= {`${isopen ? "block" : "hidden"} sm:hidden bg-gray-200`}>
-          <Link href="/" className='text-xl px-4 text-white'>Home</Link>
-      <Link href="/Card" className='text-xl px-4 text-white'>About</Link>
-      <Link href="/skills" className='text-xl px-4 text-white'>Skills</Link>
-      <Link href="/developers" className='text-xl px-4 text-white'>Developers</Link>
-      <Link href="/contacts" className='text-xl px-4 text-white'>Contacts</Link>
+       <div className= {`${isopen ? "block" : "hidden"} sm:hidden bg-gray-700 py-4`}>
+          <Link href="/" className='text-xl px-4 text-white block'>Home</Link>
+      <Link href="/Card" className='text-xl px-4 text-white block'>About</Link>
+      <Link href="/skills" className='text-xl px-4 text-white block'>Skills</Link>
+      <Link href="/developers" className='text-xl px-4 text-white block'>Developers</Link>
+      <Link href="/contacts" className='text-xl px-4 text-white block'>Contacts</Link>
         </div>
    </nav>
    </>
