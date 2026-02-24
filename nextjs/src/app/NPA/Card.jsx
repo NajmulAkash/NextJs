@@ -26,7 +26,7 @@ export default function MetricCard() {
           </h2>
 
           <p className="text-sm font-semibold text-gray-600 mt-1">
-          Najjklkkail
+          Ha Ha Ha Ha Ha.
           </p>
 
           <p className="text-sm text-gray-500 mt-3 leading-relaxed">
